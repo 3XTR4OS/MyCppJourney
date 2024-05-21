@@ -2,7 +2,7 @@
 
 int main()
 {
-	// setlocale(0, "rus");
-	std::cout << "Òâîÿ ìàìóëÿ òàêàÿ æèðíàÿ" << std::endl;
+	setlocale(0, "rus");
+	std::cout << "Ð¡++, Ð·Ð°Ñ‡ÐµÐ¼ Ñ‚Ñ‹ Ñ‚Ð°Ðº Ñ Ð½Ð°Ð¼Ð¸?" << std::endl;
 }
 
